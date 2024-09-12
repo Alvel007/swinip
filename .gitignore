@@ -3,3 +3,4 @@ venv/
 .vscode/
 main.py
 network
+dnsmasq-nfset.lst
