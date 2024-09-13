@@ -1,2 +1,12 @@
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
 nftset=/instagram.com/4#inet#fw4#vpn_domains
+nftset=/echo.msk.ru/4#inet#fw4#vpn_domains
+nftset=/cdn.cloudflare.net/4#inet#fw4#vpn_domains
+nftset=/openai.com/4#inet#fw4#vpn_domains
+nftset=/oaiusercontent.com/4#inet#fw4#vpn_domains
+nftset=/oaistatic.com/4#inet#fw4#vpn_domains
+nftset=/openthinklabs.com/4#inet#fw4#vpn_domains
+nftset=/openai.fund/4#inet#fw4#vpn_domains
+nftset=/chatgpt.com/4#inet#fw4#vpn_domains
+nftset=/claude.ai/4#inet#fw4#vpn_domains
+nftset=/qualtrics.com/4#inet#fw4#vpn_domains
