@@ -4,3 +4,5 @@ venv/
 main.py
 network
 dnsmasq-nfset.lst
+.key
+conftest.lst
